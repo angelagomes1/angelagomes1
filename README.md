@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @angelagomes1
 - 👀 I’m intrested in programming
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to learn more about programming ...
-- 📫 How to reach me :-...
+- 💞️ I’m looking to learn more about programming and data science
+- 📫 How to reach me :- www.linkedin.com/in/angelawgomes
 
 <!---
 angelagomes1/angelagomes1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
