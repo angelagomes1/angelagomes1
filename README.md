@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angelagomes1
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to learn more about programming.
+- 💞️ I’m looking forward to learn more about programming.
 - 📫 How to reach me :- www.linkedin.com/in/angelawgomes
 
 <!---
